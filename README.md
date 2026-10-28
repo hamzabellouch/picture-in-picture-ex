@@ -2,7 +2,6 @@
 
 A modern, lightweight, and versatile browser extension that allows you to easily watch any video in a floating Picture-in-Picture (PiP) window directly from any webpage—featuring one-click toolbar activation, keyboard shortcut support (`Alt+P`), automatic video selection with Shadow DOM traversal, restriction override, dynamic video tracking via ResizeObserver, and an optional Automatic Picture-in-Picture mode.
 
-<img width="2752" height="1536" alt="Picture in Picture" src="https://github.com/user-attachments/assets/f57e35c6-c485-4c11-8172-5b8b55ec1f4a" />
 
 Compatible with all major browsers: **Chrome, Brave, Edge, Opera, Vivaldi (Chromium-based)** and **Mozilla Firefox**.
 
